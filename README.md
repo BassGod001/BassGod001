@@ -9,7 +9,7 @@ Become a Solidity / Smart Contract Developer in 12 months.
 | Phase | Timeline | Focus |
 |-------|----------|-------|
 | ✅ Phase 1 | Months 1–2 | JavaScript fundamentals |
-| 🔄 Phase 2 | Months 2–3 | Blockchain basics + Ethers.js |
+| ✅ Phase 2 | Months 2–3 | Blockchain basics + Ethers.js |
 | ⏳ Phase 3 | Months 3–5 | Solidity + Smart Contracts |
 | ⏳ Phase 4 | Months 5–7 | Building full DApps |
 | ⏳ Phase 5 | Months 7–10 | Portfolio projects |
