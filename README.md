@@ -31,7 +31,7 @@ Become a Solidity / Smart Contract Developer in 12 months.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 
 ## 📫 Connect
-- X/Twitter: https://x.com/BassGod001
+- X/Twitter: https://x.com/basseygodsave
 - LinkedIn: www.linkedin.com/in/bassey-godsave-764890419
 - Follow my journey: I post weekly updates on what I'm learning and building.
 
